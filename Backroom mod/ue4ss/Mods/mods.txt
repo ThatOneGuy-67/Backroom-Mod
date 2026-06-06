@@ -1,0 +1,17 @@
+CheatManagerEnablerMod : 1
+ConsoleCommandsMod : 1
+ConsoleEnablerMod : 1
+LineTraceMod : 0
+BPML_GenericFunctions : 1
+BPModLoaderMod : 1
+GUIAutoLauncherMod : 1
+ETBCommandsMod : 1
+ConsoleKeybindsMod : 1
+NavigationHUD : 1
+
+
+
+
+DropAlmondWaterSpammer : 1
+; Built-in keybinds, do not move up!
+Keybinds : 0
